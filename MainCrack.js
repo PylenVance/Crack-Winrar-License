@@ -1,7 +1,7 @@
 const fs = require('fs');
 const os = require('os');
 
-const title = "WinRar Premium Activator - Made by Kye";
+const title = "WinRar Premium Activator";
 const path = "C:\\Program Files\\WinRAR\\rarreg.key";
 
 try {
